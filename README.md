@@ -16,5 +16,7 @@ The notebook demonstrates how to compute:
 
 using PySCF and visualize produces orbitals.
 
-To setup conda environment with required packages, run:
+To setup conda environment with required packages, you can just run
+```
 conda env create -f environment.yml
+```
