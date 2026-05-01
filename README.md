@@ -2,7 +2,7 @@
 
 This repository accompanies the chapter:
 
-"Chemical Bond Analysis in Biomolecular Systems Using IAOs and IBOs with PySCF"
+"Chemical Bond Analysis in Biomolecular Systems Using Intrinsic Atomic and Bond Orbitals (IAOs and IBOs) with PySCF"
 
 Methods in Molecular Biology (Springer Nature).
 
