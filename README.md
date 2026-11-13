@@ -31,9 +31,9 @@ jupyter lab pyscf_orbital_analysis.ipynb
 ├── pyscf_orbital_analysis.ipynb  # Main analysis notebook
 ├── environment.yml               # Conda environment specification
 ├── examples/                     # Input molecular geometries in XYZ format
-├── IBO_cubes/                    # Generated IBO cube files, grouped by molecule
-├── mayer_bond_indices.csv        # Generated Mayer bond indices
-├── ibo_classification.csv        # Generated IBO classifications
+├── IBO_cubes/                    # Generated IBO cube files, grouped by molecule (when the notebook is run)
+├── mayer_bond_indices.csv        # Generated Mayer bond indices (when the notebook is run)
+├── ibo_classification.csv        # Generated IBO classifications (when the notebook is run)
 ├── README.md
 └── LICENSE
 ```
