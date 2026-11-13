@@ -11,6 +11,3 @@ dependencies:
   - jupyter
   - jupyterlab
   - ipywidgets
-  - pip
-  - pip:
-    - git+https://github.com/funkymunkycool/Cube-Toolz.git

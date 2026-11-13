@@ -12,3 +12,9 @@ __pycache__/
 # temporary files
 *.log
 *.tmp
+
+# Generated orbital files
+IBO_cubes/
+
+# Cluster job statistics
+*.stats
